@@ -1,0 +1,7 @@
+{
+  "name": "ANAC LAD - Registro de Lugares Aptos",
+  "description": "Aplicación para el registro de Lugares Aptos Denunciados (LAD, LADH, LADA) ante la ANAC, incluyendo visualización de coordenadas en tiempo real.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
